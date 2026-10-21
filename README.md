@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Zhitong Guo 👋
+# Hi, I'm Zhitong(Gina) Guo 👋
 
 **Computer Science Undergraduate · Rutgers University–New Brunswick**
 
